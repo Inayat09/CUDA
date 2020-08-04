@@ -1,0 +1,252 @@
+*{
+	margin:0;
+	padding:0;
+}
+
+body{
+  font-family:;
+  width:1380px;
+}
+
+
+
+
+/*Header */
+
+.header{
+	
+	height:590px;
+	background-color:#87509c;
+}
+
+.header .navbar-nav .nav-link{
+	color:#ffffff;
+}
+
+.header .navbar-nav .nav-link:active{
+	background-color:#643a79;
+}
+
+
+.header .navbar-nav .nav-link:hover{
+	background-color:#643a79;
+}
+
+.header .header-top{
+	padding:3rem 9rem;
+}
+
+.header-body{
+	padding:9% 15%;
+	text-align:center;
+	color:white;
+}
+
+.header .org-btn{
+	background-color:#eb7d4b;
+	padding:14px 55px;
+	color:white;
+	margin:2rem 1rem 0 0;
+}
+
+
+/*  SERVICES  */
+
+.services{
+	height:630px;
+	background-color:#17c2a4;
+	padding:5% 15%;
+	color:white;
+
+}
+
+.services .services-hd {
+	text-transform:uppercase;
+
+}
+
+.services .services-text{
+	padding:0 20% 5% 20%;
+}
+
+.services .service-border{
+	width:100px;
+	margin:0 auto;
+	padding:10px 0;
+}
+.services .card{
+	background-color:#17c2a4;
+	border:none;
+}
+
+.services .card .card-text{
+	padding:4%;
+}
+
+
+.services .card .card-title{
+	font-size:1.2rem;
+}
+
+.services .card .card-img-top{
+     width:100px;
+	height:90px;
+	margin:1rem 0 1rem 3.5rem;
+
+}
+
+
+/*  MEET THe TEAM   */
+
+
+.team{
+     height:750px;
+	background-color:#e7f1f8;
+	padding:5% 15%;
+	color:#5d5959
+}
+
+.team .team-border{
+	width:100px;
+	margin:0 auto;
+	padding-bottom:1rem;
+}
+
+.team .card{
+	background-color:#e7f1f8;
+	border:none;
+}
+.team .card .card-img-top{
+    
+    border-radius:50%;
+    margin-top:2.5rem;
+
+}
+.team .card .card-title{
+	color:#000;
+	font-size:1.1rem;
+	font-weight:bold;
+	margin-top:1rem;
+}
+.team .card .card-subtitle{
+	font-size:.9rem;
+	font-weight:bold;
+	color:#4781e9;
+	margin:.7rem 0;
+}
+
+
+
+/*  Skills Section  */
+
+
+.skills{
+	height:550px;
+	background-color:#e7f1f8;
+	padding:5% 15%;
+	color:#3c4761;
+}
+.skills .skills-header .skills-title{
+	letter-spacing:3px;
+	text-transform:uppercase;
+}
+.skills .skills-header .skills-border{
+
+	width:100px;
+	margin:0 auto;
+	padding:10px 0;
+}
+.skills .skills-text{
+	width:60%;
+	margin:0 auto;
+	padding-bottom:3rem;
+
+}
+
+.skills .skills-img{
+	width:120px;
+	height:150px;
+	margin-top:30px;
+}
+
+
+
+/*  Portfolio Section  */
+
+.portfolio {
+	height:1200px;
+	background-color:#ffdd99;
+	padding:5% 15%;
+	color:#393939;
+}
+
+.portfolio .portfolio-title{
+	letter-spacing:6px;
+	text-transform:uppercase;
+}
+.portfolio .portfolio-border{
+	width:100px;
+	margin:0 auto;
+	padding-bottom:1.3rem;
+}
+
+.portfolio .portfolio-text{
+	width:63%;
+	margin:0 auto;
+	padding-bottom:2rem;
+}
+
+.portfolio .portfolio-btn .btn{
+   margin:.2rem;
+}
+
+.portfolio .portfolio-btn .btn-wht{
+	background-color:white;
+	padding:5px 20px;
+	border:none;
+	color:#393939; 
+
+}
+.portfolio .portfolio-btn .btn-org{
+    background-color:#ebc985;
+    padding:5px 20px;
+	border:none;
+	color:#393939;
+
+}
+
+.portfolio .portfolio-img{
+	width:460px;
+	height:250px;
+}
+.portfolio .portfolio-img-txt{
+	font-size:1.2rem;
+	margin-top:1rem;
+	text-transform: uppercase;
+}
+.portfolio .porfolio-last-btn .btn-grn{
+	background-color:#17c2a4;
+	padding:20px 40px;
+	color:white;
+	font-size:1rem;
+	font-weight:bold;
+	letter-spacing: 1px;
+	border-bottom:2px solid #1aa58d;
+	margin-top:4rem;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
